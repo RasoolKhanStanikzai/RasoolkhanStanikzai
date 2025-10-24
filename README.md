@@ -26,7 +26,7 @@ I focus on creating efficient, user-friendly, and visually appealing software so
 
 ## 🚀 Featured Projects
 
-- 💊 [Pharmacy Management System](https://github.com/RasoolKhanStanikzai/PharmacyManagementSystem)  
+- 💊 [Pharmacy Management System](https://github.com/RasoolKhanStanikzai/Pharmacy_Management_System)  
   A full-featured desktop system for managing inventory, sales, and medical records.
 
 - 🏬 [Warehouse Management System](https://github.com/RasoolKhanStanikzai/WareHouseManagementSystem)  
