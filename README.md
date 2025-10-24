@@ -16,7 +16,7 @@ I focus on creating efficient, user-friendly, and visually appealing software so
 ---
 
 ## 🧰 Tech Stack
-**Languages:** Java, C, C++, C#, HTML, CSS 
+**Languages:** Java, C, C++, C#, HTML, CSS
 **Frameworks:** JavaFX  
 **Databases:** MySQL, SQLite, PostgreSQL  
 **Tools:** Scene Builder, NetBeans, VS Code, Git, GitHub  
